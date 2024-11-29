@@ -2,7 +2,7 @@
 
 ### Introduction
 
-A easy image extension converter. Supported extensions - JPEG, PNG, WEBP, ENC, GIF
+A easy, privacy focused image extension converter. Supported extensions - JPEG, PNG, WEBP, ENC, GIF
 
 ### Pre-requirements
 

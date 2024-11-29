@@ -46,7 +46,7 @@ const Policy = () => {
                     <ul>
                         <li>Client-side encryption for local processing</li>
                         <li>No external data sharing</li>
-                        <li>Minimal data collection</li>
+                        <li>No data collection</li>
                     </ul>
 
                     <h2 className="policy-heading">6. User Control</h2>
