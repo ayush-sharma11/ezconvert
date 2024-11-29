@@ -54,6 +54,18 @@ const Policy = () => {
                         You have complete control over your images. Delete or
                         keep converted files as you choose.
                     </p>
+
+                    <h2 className="policy-heading">7. Want to contribute?</h2>
+                    <p>
+                        Check our{" "}
+                        <a
+                            href="https://github.com/ayush-sharma11/ezconvert"
+                            target="_blank"
+                        >
+                            GitHub repository
+                        </a>{" "}
+                        to contribute!
+                    </p>
                 </div>
                 <div className="text-center mt-5">
                     <Link to="/" className="btn btn-primary">
