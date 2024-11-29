@@ -5,7 +5,7 @@ const Policy = () => {
         <>
             <div className="container my-5">
                 <div className="policy-container">
-                    <h1 className="text-center mb-4">Privacy Policy</h1>
+                    <h1 className="text-center mb-4">Policy</h1>
                     <p className="text-muted text-center mb-5">
                         Last Updated: November 2024
                     </p>
