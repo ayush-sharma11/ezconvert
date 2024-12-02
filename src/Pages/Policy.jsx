@@ -7,7 +7,7 @@ const Policy = () => {
                 <div className="policy-container">
                     <h1 className="text-center mb-4">Policy</h1>
                     <p className="text-muted text-center mb-5">
-                        Last Updated: November 2024
+                        Last Updated: December 2024
                     </p>
 
                     <h2 className="policy-heading">
@@ -29,11 +29,7 @@ const Policy = () => {
                     </ul>
 
                     <h2 className="policy-heading">3. Browser Data</h2>
-                    <ul>
-                        <li>We may collect anonymous usage statistics</li>
-                        <li>Browser type and version</li>
-                        <li>Device information for performance optimization</li>
-                    </ul>
+                    <p>We do not even collect any anonymous usage data.</p>
 
                     <h2 className="policy-heading">4. Local Storage</h2>
                     <p>
