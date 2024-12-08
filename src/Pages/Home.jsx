@@ -104,6 +104,7 @@ const Home = () => {
                                     />
                                 </div>
                                 <div>
+                                    <label>Original Image Preview:</label>
                                     <img
                                         id="preview"
                                         src={previewSrc}
